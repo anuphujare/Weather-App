@@ -1,3 +1,16 @@
+Weather
+
+# Weather App
+A simple react weather web app that allows you to get current weather information and forecast of next week based on the city you are.
+This web Application was made with React, JavaScript, rapidApi, openweatherApi, HTML, CSS
+## [Web application link](https://weather-app-psi-one.vercel.app/)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
