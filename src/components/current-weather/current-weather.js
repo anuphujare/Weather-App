@@ -3,7 +3,6 @@ import "./current-weather.css"
 
 const CurrentWeather = ({data}) => {
     return (
-        <div> Hello </div>
         <div className="weather">
             <div className="top">
                 <div>
